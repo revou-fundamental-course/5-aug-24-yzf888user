@@ -1,1 +1,6 @@
 /* Ini CSS */
+
+form (
+    padding: 12px;
+    background-color: cyan;
+)
